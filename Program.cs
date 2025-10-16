@@ -1,4 +1,4 @@
 ﻿
 using ConsoleApp07.Applications;
 
-Fibonnaci.Execute();
+await HttpPhotosClient.Execute();
